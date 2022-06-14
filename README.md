@@ -1,1 +1,1 @@
-# automated-image-analysis
+# Automated Image Analysis (AIA)
